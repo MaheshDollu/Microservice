@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MaheshApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(MaheshApplication.class, args);
-	}
-
+public class MaheshApplication {  // ✅ Capital M and A
+    
+    public static void main(String[] args) {
+        SpringApplication.run(MaheshApplication.class, args);
+    }
 }
